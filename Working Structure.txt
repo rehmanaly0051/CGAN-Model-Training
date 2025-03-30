@@ -1,0 +1,6 @@
+1. Data Preprocessing
+2. Define the CGAN Architecture
+3. Prepare the Training Pipeline
+4. Evaluate the Model
+5. Fine tune and improve the Model
+6. Deploy the Model
